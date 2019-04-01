@@ -1,0 +1,10 @@
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\App.AnaliseLib\bin\Debug\App.AnaliseLib.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\App.AnaliseLib\bin\Debug\App.AnaliseLib.pdb
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\App.AnaliseLib\obj\Debug\App.AnaliseLib.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\App.AnaliseLib\obj\Debug\App.AnaliseLib.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\App.AnaliseLib\obj\Debug\App.AnaliseLib.pdb
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\App.AnaliseLib\bin\Debug\App.AnaliseLib.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\App.AnaliseLib\bin\Debug\App.AnaliseLib.pdb
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\App.AnaliseLib\obj\Debug\App.AnaliseLib.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\App.AnaliseLib\obj\Debug\App.AnaliseLib.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\App.AnaliseLib\obj\Debug\App.AnaliseLib.pdb

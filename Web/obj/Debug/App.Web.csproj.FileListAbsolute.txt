@@ -1,0 +1,60 @@
+F:\App.AutomoveisSA\Web\bin\Web.dll.config
+F:\App.AutomoveisSA\Web\bin\Web.dll
+F:\App.AutomoveisSA\Web\bin\Web.pdb
+F:\App.AutomoveisSA\Web\bin\App.AnaliseLib.dll
+F:\App.AutomoveisSA\Web\bin\System.Web.Helpers.dll
+F:\App.AutomoveisSA\Web\bin\System.Web.Mvc.dll
+F:\App.AutomoveisSA\Web\bin\System.Web.Razor.dll
+F:\App.AutomoveisSA\Web\bin\System.Web.Webpages.Deployment.dll
+F:\App.AutomoveisSA\Web\bin\System.Web.Webpages.dll
+F:\App.AutomoveisSA\Web\bin\System.Web.Webpages.Razor.dll
+F:\App.AutomoveisSA\Web\bin\App.AnaliseLib.pdb
+F:\App.AutomoveisSA\Web\bin\System.Web.Razor.xml
+F:\App.AutomoveisSA\Web\bin\System.Web.Webpages.xml
+F:\App.AutomoveisSA\Web\bin\System.Web.Webpages.Deployment.xml
+F:\App.AutomoveisSA\Web\bin\System.Web.Webpages.Razor.xml
+F:\App.AutomoveisSA\Web\bin\System.Web.Helpers.xml
+F:\App.AutomoveisSA\Web\bin\System.Web.Mvc.xml
+F:\App.AutomoveisSA\Web\obj\Debug\App.Web.csprojResolveAssemblyReference.cache
+F:\App.AutomoveisSA\Web\obj\Debug\Web.dll
+F:\App.AutomoveisSA\Web\obj\Debug\Web.pdb
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\Web.dll.config
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\Web.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\Web.pdb
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\App.AnaliseLib.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Helpers.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Mvc.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Razor.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Webpages.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\App.AnaliseLib.pdb
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Razor.xml
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Webpages.xml
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Helpers.xml
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\bin\System.Web.Mvc.xml
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\obj\Debug\App.Web.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\obj\Debug\Web.dll
+C:\Users\Sabrina.coliveira8\Desktop\App.AutomoveisSA\Web\obj\Debug\Web.pdb
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\obj\Debug\App.Web.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\Web.dll.config
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\Web.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\Web.pdb
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\App.AnaliseLib.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Helpers.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Mvc.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Razor.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Webpages.Deployment.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Webpages.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Webpages.Razor.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\App.AnaliseLib.pdb
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Razor.xml
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Webpages.xml
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Webpages.Deployment.xml
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Webpages.Razor.xml
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Helpers.xml
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\bin\System.Web.Mvc.xml
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\obj\Debug\Web.dll
+T:\Cursos Tecnicos\TECNOLOGIA DA INFORMAÇÃO\Cursos Técnicos - TI\INFO_M26\Pública\UC12\Sah\App.AutomoveisSA\Web\obj\Debug\Web.pdb
